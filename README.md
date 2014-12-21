@@ -3,6 +3,8 @@ CheckWallyHome
 
 Google Apps Script to Check on Wally Home Sensors via API
 
+Installation
+
 To use this script:
 1. Log on to your Google account
 2. Go to http://script.google.com
